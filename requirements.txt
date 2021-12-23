@@ -1,0 +1,4 @@
+click
+pikepdf
+ghostscript
+Pillow
